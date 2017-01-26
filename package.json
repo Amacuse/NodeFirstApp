@@ -1,0 +1,14 @@
+{
+  "name": "note-todo",
+  "version": "0.0.0",
+  "description": "Simple todo application",
+  "main": "server.js",
+  "author":"Igor",
+  "dependencies": {
+    "body-parser": "~1.15.2",
+    "method-override": "~2.1.3",
+    "mongoose": "~4.4.12",
+    "express": "~4.14.0",
+    "morgan": "~1.7.0"
+  }
+}
